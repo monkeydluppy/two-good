@@ -1,6 +1,6 @@
 
 # two-good
-Excited to share my latest project [See Live]([https://react-tell-me-a-joke.netlify.app/](https://compressed-two-good.netlify.app/). Made it mobile-friendly and optimized for a seamless user experience. Check it out and let me know what you think!
+Excited to share my latest project [See Live](https://compressed-two-good.netlify.app/). Made it mobile-friendly and optimized for a seamless user experience. Check it out and let me know what you think!
 
 
 
