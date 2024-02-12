@@ -6,7 +6,7 @@ Excited to share my latest project [See Live]([https://react-tell-me-a-joke.netl
 
 
 #Image
-![react-img](https://github.com/monkeydluppy/react-app-joke-generator/blob/main/assets/image.png)
+![react-img](https://github.com/monkeydluppy/two-good/live-image.png)
 
 
 ## Minified
